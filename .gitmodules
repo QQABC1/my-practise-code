@@ -1,0 +1,3 @@
+[submodule "project/heyo/themes/heyo-hugo-theme"]
+	path = project/heyo/themes/heyo-hugo-theme
+	url = https://github.com/LucasVadilho/heyo-hugo-theme.git
